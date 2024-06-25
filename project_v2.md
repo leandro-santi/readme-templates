@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT904XZ8kpOic417aETQDdVWE2u5LpQ6XJhNQ&s" width="230px" />
+  <img src="markdown.png" width="230px" />
 </div>
+
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/leandro-santi/graph-social-network?color=%231E90FF&style=flat-square" alt="languages" />
-  <img src="https://img.shields.io/github/license/leandro-santi/graph-social-network?color=%231E90FF&style=flat-square" alt="license" />
-  <img src="https://img.shields.io/github/repo-size/leandro-santi/graph-social-network?color=%231E90FF&style=flat-square" alt="repo size" />
+  <img src="https://img.shields.io/github/languages/count/leandro-santi/readme-templates?color=%231E90FF&style=flat-square" alt="languages" />
+  <img src="https://img.shields.io/github/license/leandro-santi/readme-templates?color=%231E90FF&style=flat-square" alt="license" />
+  <img src="https://img.shields.io/github/repo-size/leandro-santi/readme-templates?color=%231E90FF&style=flat-square" alt="repo size" />
 </div>
 
 # Project Name
@@ -34,9 +35,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## References
 
-* [Lorem ipsum dolor](https://loremipsum.io/)
-* [Lorem ipsum dolor](https://loremipsum.io/) 
-* [Lorem ipsum dolor](https://loremipsum.io/) 
+Lorem ipsum dolor.
+
+Lorem ipsum dolor.
+
+Lorem ipsum dolor.
 
 ## Contribute
 
