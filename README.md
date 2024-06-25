@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/repo-size/leandro-santi/readme-templates?color=%234169E1&style=flat-square" alt="repo size" />
 </div>
 
-# Readme Templates
+# README Templates
 
 This repository aims to provide some README files templates to help developers document their projects.
 
