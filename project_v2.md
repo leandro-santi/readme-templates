@@ -20,6 +20,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Lorem ipsum
 * Lorem ipsum
 
+## Technologies
+
+* Lorem ipsum
+* Lorem ipsum
+* Lorem ipsum
+
 ## Development
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
