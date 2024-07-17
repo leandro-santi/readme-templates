@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme.png" width="230px" />
+  <img src="readme.png" width="300px" />
 </div>
 
 <div align="center">
