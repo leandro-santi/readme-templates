@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="markdown.png" width="230px" />
+  <img src="markdown.png" width="300px" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/leandro-santi/readme-templates?color=%234169E1&style=flat-square" alt="languages" />
-  <img src="https://img.shields.io/github/license/leandro-santi/readme-templates?color=%234169E1&style=flat-square" alt="license" />
-  <img src="https://img.shields.io/github/repo-size/leandro-santi/readme-templates?color=%234169E1&style=flat-square" alt="repo size" />
+  <img src="https://img.shields.io/github/languages/count/leandro-santi/readme-templates?color=%231E90FF&style=flat-square" alt="languages" />
+  <img src="https://img.shields.io/github/license/leandro-santi/readme-templates?color=%231E90FF&style=flat-square" alt="license" />
+  <img src="https://img.shields.io/github/repo-size/leandro-santi/readme-templates?color=%231E90FF&style=flat-square" alt="repo size" />
 </div>
 
 # Project Name

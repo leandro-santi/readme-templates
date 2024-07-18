@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="markdown.png" width="230px" />
+  <img src="markdown.png" width="300px" />
 </div>
 
 <div align="center">
